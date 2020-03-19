@@ -1,15 +1,15 @@
 
 
+
 document.getElementsByClassName('dropdown')
 
-<<<<<<< HEAD
 M.AutoInit();
 
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.collapsible');
     var instances = M.Collapsible.init(elems, options);
   });
-=======
+  
 $(document).ready(function() {
   getRandomDrinks();
 
@@ -45,6 +45,7 @@ $(document).ready(function() {
     }
   }
 });
->>>>>>> cea96af84bcbe69f366dc1f7420076374d6cd1cb
 
  
+=======
+>>>>>>> 8b1d49bb06390267021e96426895f1a303182e34
