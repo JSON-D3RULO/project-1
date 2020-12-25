@@ -58,7 +58,7 @@ https://json-d3rulo.github.io/project-1/
 
 ## Contributing
 * [gmg300](https://github.com/gmg300)
-* [hussainvaid](https://github.com/hussainvaid)
+* [mohmedvaid](https://github.com/mohmedvaid)
 * [rodriguezh21](https://github.com/rodriguezh21)
 * [StrongMarc](https://github.com/StrongMarc)
 
